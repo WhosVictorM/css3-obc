@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 1.75rem;
+    border-bottom: 1px solid #030308;
+}
+h1 {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #030308;
+    color: #fff;
+    text-align: center;
+}
+
+footer > p {
+    padding: 1rem;
+}
+
+h2 {
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.div1 {
+    text-align: center;
+    padding: 2rem;
+}
+
+.btnPreto {
+    background-color: #030308;
+    color: #fff;
+    border-radius: 3rem;
+    border-color: transparent;
+    height: 2rem;
+    width: 9rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+
+.imagem{
+    margin: 15px;
+}
+
+.div2 {
+    text-align: center;
+    padding: 2rem;
+}
+
+li {
+    display: inline-block;
+}
+
+li > button {
+    background-color: #43abf6;
+    color: #fff;
+    border-radius: 3rem;
+    border-color: transparent;
+    height: 2rem;
+    width: 9rem;
+    cursor: pointer;
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+
+.div3 {
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+}
